@@ -3,3 +3,6 @@
 
 # NOTE:
 # SFML is a DLL(Dynamic Linked Library) which is not available in C++ standartd files you will have to import the files yourself for this program to function 
+
+# NOTE:
+# Set reserve stack size larger then 32580
