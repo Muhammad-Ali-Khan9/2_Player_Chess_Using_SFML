@@ -1,4 +1,4 @@
-# Chess_Using_SFML
+# Chess_Using_SFML(Simple and Fast Multimedia Library)
 # Game of chess made using OOP principles and C++ DLL SFML to incoportate GUI and Movement of piece using mouse cursor
 
 # NOTE:
